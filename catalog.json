@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Mutual Non-Disclosure Agreement",
+    "description": "Standard terms for a mutual NDA allowing each party to share confidential information for the purpose of evaluating a potential business relationship. Covers use restrictions, exceptions, term, and return of confidential information.",
+    "filename": "templates/Mutual-NDA.md"
+  },
+  {
+    "name": "Mutual Non-Disclosure Agreement — Cover Page",
+    "description": "Cover page template to accompany the Mutual NDA Standard Terms. Parties fill in the purpose, effective date, term, governing law, and signatures.",
+    "filename": "templates/Mutual-NDA-coverpage.md"
+  },
+  {
+    "name": "Cloud Service Agreement",
+    "description": "Comprehensive agreement governing access to and use of a cloud-hosted product, covering subscription, restrictions, privacy, payment, term, warranties, liability, indemnification, and confidentiality.",
+    "filename": "templates/CSA.md"
+  },
+  {
+    "name": "Design Partner Agreement",
+    "description": "Agreement for early-access design partners who test and provide feedback on a product during development. Covers program participation, IP ownership of feedback, confidentiality, and disclaimer of warranties.",
+    "filename": "templates/design-partner-agreement.md"
+  },
+  {
+    "name": "Service Level Agreement",
+    "description": "Defines uptime and response-time commitments for a cloud service, including how availability is calculated, service credits for failures, and termination rights for persistent outages.",
+    "filename": "templates/sla.md"
+  },
+  {
+    "name": "Professional Services Agreement",
+    "description": "Framework agreement for professional services engagements governed by statements of work (SOWs), covering deliverable ownership, payment, warranties, indemnification, insurance, and confidentiality.",
+    "filename": "templates/psa.md"
+  },
+  {
+    "name": "Data Processing Agreement",
+    "description": "GDPR-aligned agreement governing how a provider processes personal data on behalf of a customer, including processor/subprocessor relationships, restricted transfers, security incident response, and audit rights.",
+    "filename": "templates/DPA.md"
+  },
+  {
+    "name": "Partnership Agreement",
+    "description": "Standard agreement for business partnerships, covering mutual obligations, trademark licensing, payment terms, escalation procedures, indemnification, and confidentiality.",
+    "filename": "templates/Partnership-Agreement.md"
+  },
+  {
+    "name": "Software License Agreement",
+    "description": "Agreement governing the on-premise installation and use of software, including license scope, restrictions, updates, payment, warranties, liability caps, indemnification, and confidentiality.",
+    "filename": "templates/Software-License-Agreement.md"
+  },
+  {
+    "name": "Pilot Agreement",
+    "description": "Short-term trial agreement allowing a customer to evaluate a product for a defined pilot period before committing to a longer-term agreement. Includes as-is warranty disclaimer and limited liability.",
+    "filename": "templates/Pilot-Agreement.md"
+  },
+  {
+    "name": "Business Associate Agreement",
+    "description": "HIPAA-compliant agreement for business associates who handle protected health information (PHI) on behalf of a covered entity, covering safeguards, breach notification, subcontractors, and data rights.",
+    "filename": "templates/BAA.md"
+  },
+  {
+    "name": "AI Addendum",
+    "description": "Addendum to a base agreement governing the use of AI and machine learning services, covering input/output ownership, model training restrictions, non-training improvements, and AI-specific disclaimers.",
+    "filename": "templates/AI-Addendum.md"
+  }
+]
